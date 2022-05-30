@@ -1,0 +1,15 @@
+---
+[
+        "raw_row_number",
+        "raw_race",
+        "raw_subject_race_description",
+        "raw_gender",
+        "raw_action_taken",
+        # depending on output, remove related columns
+        "arrest_made",
+        "citation_issued",
+        "warning_issued",
+        # "outcome",
+        # search_conducted is fine for some reason
+
+]
